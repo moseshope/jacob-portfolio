@@ -1,6 +1,6 @@
 ### description
 
-Dennis Yun's portfolio site that introduce who is Dennis. 
+Jacob Kwan's portfolio site that introduce who is Jacob. 
 
 ### Setup
 
