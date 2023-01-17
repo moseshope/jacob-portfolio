@@ -66,7 +66,7 @@ const skills = [
     },
     {
         name: "Rust",
-        value: 100,
+        value: 75,
     },
     {
         name: "Liquid/Shopify",
@@ -82,27 +82,27 @@ const skills = [
     },
     {
         name: "Vue.js",
-        value: 95,
+        value: 100,
     },
     {
         name: "Python Selenium",
-        value: 95,
+        value: 100,
     },
     {
         name: "Nest.js",
-        value: 95,
+        value: 100,
     },
     {
         name: "Next.js",
-        value: 95,
+        value: 100,
     },
     {
         name: "MongoDB",
-        value: 95,
+        value: 100,
     },
     {
         name: "MySQL",
-        value: 95,
+        value: 100,
     },
     {
         name: "PostgreSQL",
