@@ -7,14 +7,14 @@ import img6 from './assets/images/s6.jpg';
 import banner from './assets/images/web_dev.jpg';
 import avata from './assets/images/jacob.png';
 
-const logotext = "Dennis.Y";
+const logotext = "Jacob.K";
 const meta = {
-    title: "Jacob.K",
+    title: "Jacob Kwan",
     description: "Jacob Kwan is a passionate Full Stack Developer who has 10+ years of experience",
 };
 
 const introdata = {
-    title: "I’m Jacob",
+    title: "Welcome!",
     animated: {
         first: "MERN stack master",
         second: "LAMP stack ghost",
@@ -187,7 +187,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/dennisYun12",
+    github: "https://github.com/moseshope",
     // facebook: "https://facebook.com",
     linkedin: "https://linkedin.com/in/jacob-guan",
     // twitter: "https://twitter.com",
