@@ -132,16 +132,16 @@ const skills = [
 
 const services = [
     {
-        title: "Full Stack",
-        description: "Senior, reliable geuine engineer",
+        title: "Web site development",
+        description: "Various kinds of websites such as Blog, Service provider, Advertising and other Functional Web applications",
     },
     {
-        title: "UI & UX Design",
-        description: "High-end, creative UI/UX design",
+        title: "Ecommerce site development",
+        description: "Shopify store, Woocommerce, Prestashop and other customer intention oriented app building",
     },
     {
-        title: "Shopify Expert",
-        description: "Shopify store building, theme customization, problem solving, dropshipping service",
+        title: "AR/VR development",
+        description: "Build augmented reality using Aframe, D3.js, Three.js",
     },
 ];
 
