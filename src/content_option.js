@@ -4,7 +4,7 @@ import img3 from './assets/images/s3.jpg';
 import img4 from './assets/images/s4.jpg';
 import img5 from './assets/images/s5.jpg';
 import img6 from './assets/images/s6.jpg';
-import banner from './assets/images/web_dev.webp';
+import banner from './assets/images/web_dev.jpg';
 import avata from './assets/images/jacob.png';
 
 const logotext = "Dennis.Y";
@@ -17,7 +17,7 @@ const introdata = {
     title: "I’m Jacob",
     animated: {
         first: "MERN stack master",
-        second: "LAMP stack professional",
+        second: "LAMP stack ghost",
         third: "Python Django Expert",
     },
     description: "Jacob Kwan is a talented and passionate Full Stack developer with 10+ years of experience." +  
