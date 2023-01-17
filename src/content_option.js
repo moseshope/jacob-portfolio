@@ -5,11 +5,11 @@ import img4 from './assets/images/s4.jpg';
 import img5 from './assets/images/s5.jpg';
 import img6 from './assets/images/s6.jpg';
 import banner from './assets/images/web_dev.webp';
-import avata from './assets/images/dennis.jpg';
+import avata from './assets/images/jacob.png';
 
 const logotext = "Dennis.Y";
 const meta = {
-    title: "Dennis.Y",
+    title: "Jacob.K",
     description: "Jacob Kwan is a passionate Full Stack Developer who has 10+ years of experience",
 };
 
