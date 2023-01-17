@@ -7,14 +7,14 @@ import img6 from './assets/images/s6.jpg';
 import banner from './assets/images/web_dev.jpg';
 import avata from './assets/images/jacob.png';
 
-const logotext = "Jacob.K";
+const logotext = "Jacob Kwan";
 const meta = {
-    title: "Jacob Kwan",
+    title: "Jacob.K",
     description: "Jacob Kwan is a passionate Full Stack Developer who has 10+ years of experience",
 };
 
 const introdata = {
-    title: "Welcome!",
+    title: "Jacob is",
     animated: {
         first: "MERN stack master",
         second: "LAMP stack ghost",
