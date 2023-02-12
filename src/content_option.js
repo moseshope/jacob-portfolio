@@ -20,11 +20,11 @@ const introdata = {
         second: "LAMP stack ghost",
         third: "Python Django Expert",
     },
-    description: "Jacob Kwan is a talented and passionate Full Stack developer with 10+ years of experience." +  
+    description: "I'm a passionate Full Stack developer with 8 over years of experience." +  
                  "JavaScript and Python is major language so Already mastered MERN, MEAN, LAMP, Python Django, Ecommerce and necessary relevant modules."+
                  "Always have an idea of a rational and effective composition plan, and in proposing and implementing it. And stay with the company and maintain an enterprising and" + 
                 "forward attitude that can be guaranteed with excellent technology." +
-                "Keeps Challenging new technologies with a sense of crisis.",                 
+                "Keeps Challenging new technologies with a sense of crisis.",        
                  
     your_img_url: banner,
     your_avata_url: avata,
@@ -132,11 +132,11 @@ const skills = [
 
 const services = [
     {
-        title: "Web site development",
+        title: "Web Site Development",
         description: "Various kinds of websites such as Blog, Service provider, Advertising and other Functional Web applications",
     },
     {
-        title: "Ecommerce site development",
+        title: "Ecommerce Technical Support",
         description: "Shopify store, Woocommerce, Prestashop and other customer intention oriented app building",
     },
     {
@@ -178,8 +178,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "lucky.dennis.dev@gmail.com",
-    YOUR_FONE: "+1 390 555 9993",
+    YOUR_EMAIL: "moseshope.dev@gmail.com",
+    YOUR_FONE: "+1 267 915 2526",
     description: "Contact to me at anytime you want",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
@@ -194,7 +194,7 @@ const socialprofils = {
     // youtube: "https://youtube.com",
     // twitch: "https://twitch.com",
     discord: "Moseshope#7718",
-    fcManager: "https://drive.google.com/file/d/1k6PgwzCiXri01pfq-PHMnhNznVLTeSGk/view",
+    fcManager: "https://drive.google.com/file/d/10-FfJT6lIy8M1Kyy9IEk2AiLAmKWye1t/view?usp=sharing",
     
 };
 export {
