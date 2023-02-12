@@ -17,8 +17,8 @@ const introdata = {
     title: "Jacob is",
     animated: {
         first: "MERN stack master",
-        second: "LAMP stack ghost",
-        third: "Python Django Expert",
+        second: "LAMP stack profession",
+        third: "Python Django expert",
     },
     description: "I'm a passionate Full Stack developer with 8 over years of experience." +  
                  "JavaScript and Python is major language so Already mastered MERN, MEAN, LAMP, Python Django, Ecommerce and necessary relevant modules."+
